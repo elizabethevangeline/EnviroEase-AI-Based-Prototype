@@ -1,53 +1,53 @@
-# 🌍 EnviroEase – Solusi Inovatif untuk Mengurangi Jejak Karbon  
+# 🌍 EnviroEase – An Innovative Solution to Reduce Carbon Footprint  
 
 ## 📌 Project Overview  
-EnviroEase adalah aplikasi mobile prototype yang dirancang untuk membantu individu **mengurangi jejak karbon pribadi** dan meningkatkan kesadaran terhadap isu lingkungan.  
-Nama "EnviroEase" berasal dari kata **Environment** + **Ease**, menggambarkan tujuan aplikasi: mempermudah masyarakat dalam mengambil langkah hijau secara konsisten.  
+**EnviroEase** is a mobile application prototype designed to help individuals **reduce their personal carbon footprint** and raise awareness of environmental issues.  
+The name "EnviroEase" comes from **Environment** + **Ease**, reflecting its mission: making green actions simple and consistent for everyone.  
 
-Proyek ini dibuat sebagai bagian dari **PKM-KC (Program Kreativitas Mahasiswa – Karsa Cipta)** di Universitas Bina Nusantara oleh tim kami yang terdiri dari 6 orang.  
+This project was developed as part of **PKM-KC (Program Kreativitas Mahasiswa – Karsa Cipta)** at Bina Nusantara University by our 6-member team.  
 
 ---
 
 ## ✨ Features  
-- 📊 **Carbon Tracker** – analisis jejak karbon dari aktivitas sehari-hari.  
-- 🔮 **Impact Prediction** – prediksi dampak lingkungan dengan metode **Random Forest** & **Logistic Regression**.  
-- 🌱 **Green Activities** – rekomendasi aktivitas hijau (penanaman pohon, bersih lingkungan, dsb).  
-- 🤝 **Green Community** – bergabung dengan komunitas hijau, berbagi progress, dan kolaborasi aksi nyata.  
-- 🎁 **Exchange Points** – sistem poin yang bisa ditukar hadiah untuk meningkatkan motivasi aksi hijau.  
-- 📢 **Edukasi Lingkungan** – artikel, video, infografis seputar perubahan iklim.  
+- 📊 **Carbon Tracker** – analyze daily activities and their carbon footprint.  
+- 🔮 **Impact Prediction** – predict environmental impact using **Random Forest** & **Logistic Regression**.  
+- 🌱 **Green Activities** – get personalized recommendations for eco-friendly activities (tree planting, clean-up events, etc.).  
+- 🤝 **Green Community** – join a community, share progress, and collaborate in real actions.  
+- 🎁 **Exchange Points** – earn and redeem points to motivate consistent green behavior.  
+- 📢 **Environmental Education** – access articles, videos, and infographics about climate change.  
 
 ---
 
 ## 🧠 AI & Tech Concepts  
-- **Random Forest** → digunakan untuk analisis jejak karbon & prediksi dampak aktivitas.  
-- **Logistic Regression** → digunakan untuk memprediksi kemungkinan perubahan perilaku hijau.  
-- **Mobile Development**: Kotlin/Java, Javascript, Typescript.  
+- **Random Forest** → applied for carbon footprint analysis and environmental impact prediction.  
+- **Logistic Regression** → used to predict the likelihood of green behavioral changes.  
+- **Mobile Development**: Kotlin/Java, JavaScript, TypeScript.  
 - **Backend & AI Training**: Python.  
 
 ---
 
 ## 🎨 Design Prototype  
-Beberapa desain utama aplikasi:  
-- **Welcome & Sign-in Page** → perkenalan & pendaftaran pengguna.  
-- **Analytical Page** → ringkasan jejak karbon & progress.  
-- **Exchange Point Page** → penukaran poin reward.  
-- **Green Community Page** → forum & kegiatan komunitas hijau.  
+Main app screens include:  
+- **Welcome & Sign-in Page** → user onboarding.  
+- **Analytical Page** → carbon footprint summary & progress tracking.  
+- **Exchange Point Page** → reward redemption system.  
+- **Green Community Page** → community forum and collaborative activities.  
 
 ---
 
 ## 🚀 Expected Outcomes  
-- 📈 **Peningkatan kesadaran** masyarakat akan dampak jejak karbon.  
-- 👫 **Partisipasi aktif** dalam kegiatan hijau berbasis komunitas.  
-- 🌏 **Pengurangan emisi** melalui perubahan gaya hidup individu.  
-- 📑 **Publikasi & laporan** efektivitas aplikasi dalam mengubah perilaku ramah lingkungan.  
+- 📈 **Increased awareness** of personal carbon footprint impact.  
+- 👫 **Active participation** in community-based eco-friendly initiatives.  
+- 🌏 **Emission reduction** through lifestyle changes.  
+- 📑 **Reports & publications** on the app’s effectiveness in promoting green behavior.  
 
 ---
 
-## 💰 Budget (Rencana)  
-Total anggaran: **Rp 7.800.000**  
-- Pengembangan aplikasi: Rp 4.500.000  
-- Hosting/server: Rp 1.000.000  
-- Lain-lain (testing, internet, storage): Rp 1.500.000  
+## 💰 Budget Plan  
+Total estimated budget: **Rp 7,800,000**  
+- App development: Rp 4,500,000  
+- Hosting/server: Rp 1,000,000  
+- Miscellaneous (testing, internet, storage): Rp 1,500,000  
 
 ---
 
@@ -62,4 +62,5 @@ Total anggaran: **Rp 7.800.000**
 ---
 
 ## 👩‍💻 Author Note  
-EnviroEase masih berupa **prototype** dalam bentuk desain & konsep fungsional. Proyek ini menunjukkan bagaimana teknologi, AI, dan gamifikasi dapat digunakan untuk meningkatkan kesadaran masyarakat terhadap perubahan iklim dan mendorong aksi nyata.  
+EnviroEase is currently a **prototype** that combines design and functional concepts.  
+This project demonstrates how **AI and gamification** can be leveraged to increase public awareness of climate change and inspire real-world eco-friendly actions. 
